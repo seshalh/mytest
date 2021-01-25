@@ -1,0 +1,11 @@
+{
+  "Settings": {
+    "SideMenu":{"name": "SideMenu", "description": "Show or hide the side menu","show": false},
+    "SideMenuLogo":{"name": "SideMenuLogo", "description": "Show or hide the side menu logo","show": true},
+	  "DarkSideMenu":{"name": "DarkSideMenu", "description": "Enable or disable dark side menu for the application","show": false},
+    "Dashboard": {"name": "Dashboard", "description": "Dashboard toggle feature properties","show":true,"addDashboardItem":true, "showCapacity":true,"showRevenue":true,"showErrors":true,"showFollowers":true},
+    "Features": {"name": "Features", "description":"Dont allow search for normal users","show": true, "search": true},
+    "Services": {"name": "Services","description":"Fetch APIs data based on toggle option","show": true,"fetchdata": true, "showMoreDetails":false},
+	  "Users": {"name":"Users", "description":"Manage application users","show": true, "addUser":true, "editUser":false,"deleteUser":true}
+  }
+}

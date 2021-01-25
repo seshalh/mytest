@@ -1,0 +1,27 @@
+  
+  {
+    "users":[
+      {
+        "id":1,
+        "firstname":"Sesha", 
+        "lastname":"Sesha", 
+        "city":"Rajkot", 
+        "country": "BE"
+      },
+      {
+        "id":2,
+        "firstname":"Krunal", 
+        "lastname":25, 
+        "city":"Rajkot", 
+        "country": "BE"
+      },
+     {
+        "id":3,
+        "firstname":"Krunal", 
+        "lastname":25, 
+        "city":"Rajkot", 
+        "country": "BE"
+     }
+     
+    ]
+  }
